@@ -1,2 +1,0 @@
-# TransportMe
-Alexa skill
